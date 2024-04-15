@@ -7,7 +7,8 @@ Find the project requirements here: [RSS feed reader in terminal](https://www.co
 Built with Python
 
 ## Screenshots and demo
-Screenshots of your app and/or a link to your live demo
+rss_feed_reader.py -4 https://rss.nytimes.com/services/xml/rss/nyt/World.xml https://rss.nytimes.com/services/xml/rss/nyt/PersonalTech.xml
+This gets the first 4 entries from the above 2 urls
 
 ## Installation
 Instructions for other developers on how to install and run your code on their local environment.
